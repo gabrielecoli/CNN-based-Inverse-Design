@@ -1,0 +1,8 @@
+Npart:             256
+InitDensity:       0.6
+Nequilibrations:   100000
+Niterations:       100000
+Nprint:            10000
+seed:              0
+InitConf:          0
+(0 fluid, 1 sc, 2 hex, 3 "init_conf.dat")
